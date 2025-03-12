@@ -1,2 +1,2 @@
 # javaStartHomework3.1
-Write to the program of the Kotorai scitaet 4 cellular numbers with the claviarism and vyvedet on the screen of Samoe Bolshoe and them.
+Write a program that counts 4 integers from the keyboard and displays the largest of them.
