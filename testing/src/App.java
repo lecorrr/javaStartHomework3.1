@@ -33,8 +33,8 @@ public class App {
         System.out.println("Collected numbers: " + numbers);
         
         int max = 0;
-        for(int j : numbers){
-            if(max < j){
+        for(int j : numbers) {
+            if(max < j) {
                 max = j;
             }
         }
