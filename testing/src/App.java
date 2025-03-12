@@ -32,7 +32,8 @@ public class App {
 
         System.out.println("Collected numbers: " + numbers);
         
-        int max = 0;
+        int max = numbers.get(0);
+        
         for(int j : numbers) {
             if(max < j) {
                 max = j;
